@@ -1,0 +1,1 @@
+{"name":"updateTodo","type":"function","source":{"https":"https://github.com/devthalal/_mytodoapp_updateTodo","ssh":"git@github.com:devthalal/_mytodoapp_updateTodo.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
